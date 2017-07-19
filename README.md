@@ -3,7 +3,7 @@
 This is the fourth project in frontend web development at [Udacity]( https://www.udacity.com/). The main aim is to recreate the **Frogger classic arcade game** and thereby learn *Object Oriented Programming* in JavaScript. For this purpose, visual assets and a game loop engine were provided.
 
 ## How to run the game
-Download and save copy of this game from [gitHub](). Then launch the game by running index.html and enjoy it.
+Download and save copy of this game from [gitHub](https://github.com/merhawi2010/FEND_classic_arcade_game_clone.git). Then launch the game by running index.html and enjoy it.
 
 ## How to play
 1.  Select your desired avatar and click play to continue.
