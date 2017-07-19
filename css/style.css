@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    display: none;
+}
+
+.scores {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 2em;
+    color: #880015;
+    display: none;
+}
+
+.game-over {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 2em;
+    color: #880015;
+    display: none;
+}
+
+li {
+    list-style: none;
+    display: inline;
+
+}
+
+li:hover {
+    opacity: 0.5;
+}
+
+button {
+    width: 80px;
+}
